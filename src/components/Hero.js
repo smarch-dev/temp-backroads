@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="hero-banner">
         <h1>Backroads App</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
+          Here is an fabulous example of a well laid out travel site. Vitae
           explicabo debitis est autem dicta.
         </p>
         <a href="#tours" className="btn hero-btn">
